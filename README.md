@@ -1,5 +1,13 @@
 TODO: this module needs an update to latest Teraslice APIs
 
+# Processor - teraslice_csv_sender
+
+To install from the root of your teraslice instance.
+
+```
+npm install terascope/teraslice_csv_sender
+```
+
 # Description
 
 Simple sender to output data to a CSV file. Each worker will append to the same file so 
